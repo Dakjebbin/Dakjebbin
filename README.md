@@ -7,6 +7,9 @@
 - 🌱 I’m currently learning new programming languages and frameworks.
 - 👯 I’m looking to collaborate on open-source projects.
 
+
+![Dakjebbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dakjebbin&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dakjebbin&layout=compact&theme=radical)
 
 ## Connect with Me
