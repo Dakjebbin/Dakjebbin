@@ -1,4 +1,4 @@
-# * 👋 Hi, I’m Jebbin Nteinyem Nsan *
+#  👋 Hi, I’m Jebbin Nteinyem Nsan 
 
 
 
