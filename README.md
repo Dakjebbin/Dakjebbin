@@ -28,6 +28,8 @@
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- [LinkedIn](https://www.linkedin.com/in/nteinyem-jebbin-8958a1173/)
 - [Twitter](https://twitter.com/progressjebbin)
 - [Personal Portfolio](https://dakjebbin.vercel.app)
+
+# Thank you for visiting my profile! Have a great day! 😊
