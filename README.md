@@ -7,15 +7,16 @@
 - 🌱 I’m currently learning new programming languages and frameworks.
 - 👯 I’m looking to collaborate on open-source projects.
 
--Languages and Tools
+##### Languages and Tools
 ![HTML](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
-![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code.png)
-![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png)
+![VSCode](https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg)
+![Tailwind CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain-wordmark.svg)
+
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
 ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)
 
