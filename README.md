@@ -14,8 +14,8 @@
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
-![VSCode](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/visualstudiocode.svg)
-![Tailwind CSS](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tailwindcss.svg)
+![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code.png)
+![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png)
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
 ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)
 
