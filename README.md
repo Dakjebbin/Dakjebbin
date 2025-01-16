@@ -15,7 +15,7 @@
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![VSCode](https://img.icons8.com/color/48/000000/visual-studio-code.png)
-![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwind-css.png)
+![Tailwind CSS](https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tailwindcss.svg)
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
 ![PostgreSQL](https://img.icons8.com/color/48/000000/postgresql.png)
 
