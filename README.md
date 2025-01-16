@@ -7,6 +7,10 @@
 - 🌱 I’m currently learning new programming languages and frameworks.
 - 👯 I’m looking to collaborate on open-source projects.
 
+-Languages and Tools
+
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+
 
 ![Dakjebbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dakjebbin&show_icons=true&theme=radical)
 
@@ -16,4 +20,4 @@
 
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin)
 - [Twitter](https://twitter.com/progressjebbin)
-- [Personal Website](https://dakjebbin.vercel.app)
+- [Personal Portfolio](https://dakjebbin.vercel.app)
